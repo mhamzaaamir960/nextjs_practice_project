@@ -1,0 +1,1 @@
+# nextjs_practice_project
